@@ -1,0 +1,1805 @@
+%!PS-Adobe-3.0 EPSF-3.0
+%%BoundingBox: 0 0 193 193 
+%%LanguageLevel: 1
+%%Creator: CorelDRAW 12
+%%Title: 123623.eps
+%%CreationDate: Fri Apr 08 11:16:08 2005
+%%DocumentProcessColors: Magenta Yellow Black 
+%%DocumentSuppliedResources: (atend)
+%%EndComments
+%%BeginProlog
+/AutoFlatness false def
+/AutoSteps 0 def
+/CMYKMarks true def
+/UseLevel 1 def
+%Build: CorelDRAW Version 12.154
+%Color profile: Disabled
+/CorelIsEPS true def
+%%BeginResource: procset wCorel12Dict 12.0 0
+/wCorel12Dict 300 dict def wCorel12Dict begin
+% Copyright (c)1992-2003 Corel Corporation
+% All rights reserved.     v12 r0.0
+/bd{bind def}bind def/ld{load def}bd/xd{exch def}bd/_ null def/rp{{pop}repeat}
+bd/@cp/closepath ld/@gs/gsave ld/@gr/grestore ld/@np/newpath ld/Tl/translate ld
+/$sv 0 def/@sv{/$sv save def}bd/@rs{$sv restore}bd/spg/showpage ld/showpage{}
+bd currentscreen/@dsp xd/$dsp/@dsp def/$dsa xd/$dsf xd/$sdf false def/$SDF
+false def/$Scra 0 def/SetScr/setscreen ld/@ss{2 index 0 eq{$dsf 3 1 roll 4 -1
+roll pop}if exch $Scra add exch load SetScr}bd/SepMode_5 where{pop}{/SepMode_5
+0 def}ifelse/CorelIsSeps where{pop}{/CorelIsSeps false def}ifelse
+/CorelIsInRIPSeps where{pop}{/CorelIsInRIPSeps false def}ifelse/CorelIsEPS
+where{pop}{/CorelIsEPS false def}ifelse/CurrentInkName_5 where{pop}
+{/CurrentInkName_5(Composite)def}ifelse/$ink_5 where{pop}{/$ink_5 -1 def}
+ifelse/$c 0 def/$m 0 def/$y 0 def/$k 0 def/$t 1 def/$n _ def/$o 0 def/$fil 0
+def/$C 0 def/$M 0 def/$Y 0 def/$K 0 def/$T 1 def/$N _ def/$O 0 def/$PF false
+def/s1c 0 def/s1m 0 def/s1y 0 def/s1k 0 def/s1t 0 def/s1n _ def/$bkg false def
+/SK 0 def/SM 0 def/SY 0 def/SC 0 def/$op false def matrix currentmatrix/$ctm xd
+/$ptm matrix def/$ttm matrix def/$stm matrix def/$ffpnt true def
+/CorelDrawReencodeVect[16#0/grave 16#5/breve 16#6/dotaccent 16#8/ring
+16#A/hungarumlaut 16#B/ogonek 16#C/caron 16#D/dotlessi 16#27/quotesingle
+16#60/grave 16#7C/bar 16#80/Euro
+16#82/quotesinglbase/florin/quotedblbase/ellipsis/dagger/daggerdbl
+16#88/circumflex/perthousand/Scaron/guilsinglleft/OE
+16#91/quoteleft/quoteright/quotedblleft/quotedblright/bullet/endash/emdash
+16#98/tilde/trademark/scaron/guilsinglright/oe 16#9F/Ydieresis
+16#A1/exclamdown/cent/sterling/currency/yen/brokenbar/section
+16#a8/dieresis/copyright/ordfeminine/guillemotleft/logicalnot/minus/registered/macron
+16#b0/degree/plusminus/twosuperior/threesuperior/acute/mu/paragraph/periodcentered
+16#b8/cedilla/onesuperior/ordmasculine/guillemotright/onequarter/onehalf/threequarters/questiondown
+16#c0/Agrave/Aacute/Acircumflex/Atilde/Adieresis/Aring/AE/Ccedilla
+16#c8/Egrave/Eacute/Ecircumflex/Edieresis/Igrave/Iacute/Icircumflex/Idieresis
+16#d0/Eth/Ntilde/Ograve/Oacute/Ocircumflex/Otilde/Odieresis/multiply
+16#d8/Oslash/Ugrave/Uacute/Ucircumflex/Udieresis/Yacute/Thorn/germandbls
+16#e0/agrave/aacute/acircumflex/atilde/adieresis/aring/ae/ccedilla
+16#e8/egrave/eacute/ecircumflex/edieresis/igrave/iacute/icircumflex/idieresis
+16#f0/eth/ntilde/ograve/oacute/ocircumflex/otilde/odieresis/divide
+16#f8/oslash/ugrave/uacute/ucircumflex/udieresis/yacute/thorn/ydieresis]def
+/L2?/languagelevel where{pop languagelevel 2 ge}{false}ifelse def/Comp?{
+/LumSepsDict where{pop false}{/AldusSepsDict where{pop false}{1 0 0 0 @gs
+setcmykcolor currentcmykcolor @gr add add add 0 ne 0 1 0 0 @gs setcmykcolor
+currentcmykcolor @gr add add add 0 ne 0 0 1 0 @gs setcmykcolor currentcmykcolor
+@gr add add add 0 ne 0 0 0 1 @gs setcmykcolor currentcmykcolor @gr add add add
+0 ne and and and}ifelse}ifelse}bd/@PL{/LV where{pop LV 2 ge L2? not and{@np
+/Courier findfont 12 scalefont setfont 72 144 m
+(The PostScript level set in the Corel application is higher than)show 72 132 m
+(the PostScript level of this device. Change the PS Level in the Corel)show 72
+120 m(application to Level 1 by selecting the PostScript tab in the print)show
+72 108 m(dialog, and selecting Level 1 from the Compatibility drop down list.)
+show flush spg quit}if}if}bd/@BeginSysCorelDict{systemdict/Corel30Dict known
+{systemdict/Corel30Dict get exec}if systemdict/CorelLexDict known{1 systemdict
+/CorelLexDict get exec}if}bd/@EndSysCorelDict{systemdict/Corel30Dict known
+{end}if/EndCorelLexDict where{pop EndCorelLexDict}if}bd AutoFlatness{/@ifl{dup
+currentflat exch sub 10 gt{
+([Error: PathTooComplex; OffendingCommand: AnyPaintingOperator]\n)print flush
+@np exit}{currentflat 2 add setflat}ifelse}bd/@fill/fill ld/fill{currentflat{
+{@fill}stopped{@ifl}{exit}ifelse}bind loop setflat}bd/@eofill/eofill ld/eofill
+{currentflat{{@eofill}stopped{@ifl}{exit}ifelse}bind loop setflat}bd/@clip
+/clip ld/clip{currentflat{{@clip}stopped{@ifl}{exit}ifelse}bind loop setflat}
+bd/@eoclip/eoclip ld/eoclip{currentflat{{@eoclip}stopped{@ifl}{exit}ifelse}
+bind loop setflat}bd/@stroke/stroke ld/stroke{currentflat{{@stroke}stopped
+{@ifl}{exit}ifelse}bind loop setflat}bd}if L2?{/@ssa{true setstrokeadjust}bd}{
+/@ssa{}bd}ifelse/d/setdash ld/j/setlinejoin ld/J/setlinecap ld/M/setmiterlimit
+ld/w/setlinewidth ld/O{/$o xd}bd/R{/$O xd}bd/W/eoclip ld/c/curveto ld/C/c ld/l
+/lineto ld/L/l ld/rl/rlineto ld/m/moveto ld/n/newpath ld/N/newpath ld/P{11 rp}
+bd/u{}bd/U{}bd/A{pop}bd/q/@gs ld/Q/@gr ld/&{}bd/@j{@sv @np}bd/@J{@rs}bd/g{1
+exch sub/$k xd/$c 0 def/$m 0 def/$y 0 def/$t 1 def/$n _ def/$fil 0 def}bd/G{1
+sub neg/$K xd _ 1 0 0 0/$C xd/$M xd/$Y xd/$T xd/$N xd}bd/k{1 index type
+/stringtype eq{/$t xd/$n xd}{/$t 0 def/$n _ def}ifelse/$k xd/$y xd/$m xd/$c xd
+/$fil 0 def}bd/K{1 index type/stringtype eq{/$T xd/$N xd}{/$T 0 def/$N _ def}
+ifelse/$K xd/$Y xd/$M xd/$C xd}bd/x/k ld/X/K ld/sf{1 index type/stringtype eq{
+/s1t xd/s1n xd}{/s1t 0 def/s1n _ def}ifelse/s1k xd/s1y xd/s1m xd/s1c xd}bd/i{
+dup 0 ne{setflat}{pop}ifelse}bd/v{4 -2 roll 2 copy 6 -2 roll c}bd/V/v ld/y{2
+copy c}bd/Y/y ld/@w{matrix rotate/$ptm xd matrix scale $ptm dup concatmatrix
+/$ptm xd 1 eq{$ptm exch dup concatmatrix/$ptm xd}if 1 w}bd/@g{1 eq dup/$sdf xd
+{/$scp xd/$sca xd/$scf xd}if}bd/@G{1 eq dup/$SDF xd{/$SCP xd/$SCA xd/$SCF xd}
+if}bd/@D{2 index 0 eq{$dsf 3 1 roll 4 -1 roll pop}if 3 copy exch $Scra add exch
+load SetScr/$dsp xd/$dsa xd/$dsf xd}bd/$ngx{$SDF{$SCF SepMode_5 0 eq{$SCA}
+{$dsa}ifelse $SCP @ss}if}bd/@MN{2 copy le{pop}{exch pop}ifelse}bd/@MX{2 copy ge
+{pop}{exch pop}ifelse}bd/InRange{3 -1 roll @MN @MX}bd/@sqr{dup 0 rl dup 0 exch
+rl neg 0 rl @cp}bd/currentscale{1 0 dtransform matrix defaultmatrix idtransform
+dup mul exch dup mul add sqrt 0 1 dtransform matrix defaultmatrix idtransform
+dup mul exch dup mul add sqrt}bd/@unscale{}bd/wDstChck{2 1 roll dup 3 -1 roll
+eq{1 add}if}bd/@dot{dup mul exch dup mul add 1 exch sub}bd/@lin{exch pop abs 1
+exch sub}bd/cmyk2rgb{3{dup 5 -1 roll add 1 exch sub dup 0 lt{pop 0}if exch}
+repeat pop}bd/rgb2cmyk{3{1 exch sub 3 1 roll}repeat 3 copy @MN @MN 3{dup 5 -1
+roll sub neg exch}repeat}bd/rgb2g{2 index .299 mul 2 index .587 mul add 1 index
+.114 mul add 4 1 roll pop pop pop}bd/WaldoColor_5 where{pop}{/SetRgb
+/setrgbcolor ld/GetRgb/currentrgbcolor ld/SetGry/setgray ld/GetGry/currentgray
+ld/SetRgb2 systemdict/setrgbcolor get def/GetRgb2 systemdict/currentrgbcolor
+get def/SetHsb systemdict/sethsbcolor get def/GetHsb systemdict
+/currenthsbcolor get def/rgb2hsb{SetRgb2 GetHsb}bd/hsb2rgb{3 -1 roll dup floor
+sub 3 1 roll SetHsb GetRgb2}bd/setcmykcolor where{pop/LumSepsDict where{pop
+/SetCmyk_5{LumSepsDict/setcmykcolor get exec}def}{/AldusSepsDict where{pop
+/SetCmyk_5{AldusSepsDict/setcmykcolor get exec}def}{/SetCmyk_5/setcmykcolor ld
+}ifelse}ifelse}{/SetCmyk_5{cmyk2rgb SetRgb}bd}ifelse/currentcmykcolor where{
+pop/GetCmyk/currentcmykcolor ld}{/GetCmyk{GetRgb rgb2cmyk}bd}ifelse
+/setoverprint where{pop}{/setoverprint{/$op xd}bd}ifelse/currentoverprint where
+{pop}{/currentoverprint{$op}bd}ifelse/@tc_5{5 -1 roll dup 1 ge{pop}{4{dup 6 -1
+roll mul exch}repeat pop}ifelse}bd/@trp{exch pop 5 1 roll @tc_5}bd
+/setprocesscolor_5{SepMode_5 0 eq{SetCmyk_5}{0 4 $ink_5 sub index exch pop 5 1
+roll pop pop pop pop SepsColor true eq{$ink_5 3 gt{1 sub neg SetGry}{0 0 0 4
+$ink_5 roll SetCmyk_5}ifelse}{1 sub neg SetGry}ifelse}ifelse}bd
+/findcmykcustomcolor where{pop}{/findcmykcustomcolor{5 array astore}bd}ifelse
+/Corelsetcustomcolor_exists false def/setcustomcolor where{pop
+/Corelsetcustomcolor_exists true def}if CorelIsSeps true eq CorelIsInRIPSeps
+false eq and{/Corelsetcustomcolor_exists false def}if
+Corelsetcustomcolor_exists false eq{/setcustomcolor{exch aload pop SepMode_5 0
+eq{pop @tc_5 setprocesscolor_5}{CurrentInkName_5 eq{4 index}{0}ifelse 6 1 roll
+5 rp 1 sub neg SetGry}ifelse}bd}if/@scc_5{dup type/booleantype eq{dup
+currentoverprint ne{setoverprint}{pop}ifelse}{1 eq setoverprint}ifelse dup _ eq
+{pop setprocesscolor_5 pop}{findcmykcustomcolor exch setcustomcolor}ifelse
+SepMode_5 0 eq{true}{GetGry 1 eq currentoverprint and not}ifelse}bd/colorimage
+where{pop/ColorImage{colorimage}def}{/ColorImage{/ncolors xd/$multi xd $multi
+true eq{ncolors 3 eq{/daqB xd/daqG xd/daqR xd pop pop exch pop abs{daqR pop
+daqG pop daqB pop}repeat}{/daqK xd/daqY xd/daqM xd/daqC xd pop pop exch pop abs
+{daqC pop daqM pop daqY pop daqK pop}repeat}ifelse}{/dataaq xd{dataaq ncolors
+dup 3 eq{/$dat xd 0 1 $dat length 3 div 1 sub{dup 3 mul $dat 1 index get 255
+div $dat 2 index 1 add get 255 div $dat 3 index 2 add get 255 div rgb2g 255 mul
+cvi exch pop $dat 3 1 roll put}for $dat 0 $dat length 3 idiv getinterval pop}{
+4 eq{/$dat xd 0 1 $dat length 4 div 1 sub{dup 4 mul $dat 1 index get 255 div
+$dat 2 index 1 add get 255 div $dat 3 index 2 add get 255 div $dat 4 index 3
+add get 255 div cmyk2rgb rgb2g 255 mul cvi exch pop $dat 3 1 roll put}for $dat
+0 $dat length ncolors idiv getinterval}if}ifelse}image}ifelse}bd}ifelse
+/setcmykcolor{1 5 1 roll _ currentoverprint @scc_5/$ffpnt xd}bd
+/currentcmykcolor{GetCmyk}bd/setrgbcolor{rgb2cmyk setcmykcolor}bd
+/currentrgbcolor{currentcmykcolor cmyk2rgb}bd/sethsbcolor{hsb2rgb setrgbcolor}
+bd/currenthsbcolor{currentrgbcolor rgb2hsb}bd/setgray{dup dup setrgbcolor}bd
+/currentgray{currentrgbcolor rgb2g}bd/InsideDCS false def/IMAGE/image ld/image
+{InsideDCS{IMAGE}{/EPSDict where{pop SepMode_5 0 eq{IMAGE}{dup type/dicttype eq
+{dup/ImageType get 1 ne{IMAGE}{dup dup/BitsPerComponent get 8 eq exch
+/BitsPerComponent get 1 eq or currentcolorspace 0 get/DeviceGray eq and{
+CurrentInkName_5(Black)eq{IMAGE}{dup/DataSource get/TCC xd/Height get abs{TCC
+pop}repeat}ifelse}{IMAGE}ifelse}ifelse}{2 index 1 ne{CurrentInkName_5(Black)eq
+{IMAGE}{/TCC xd pop pop exch pop abs{TCC pop}repeat}ifelse}{IMAGE}ifelse}
+ifelse}ifelse}{IMAGE}ifelse}ifelse}bd}ifelse/WaldoColor_5 true def/$fm 0 def
+/wfill{1 $fm eq{fill}{eofill}ifelse}bd/@Pf{@sv SepMode_5 0 eq $Psc 0 ne or
+$ink_5 3 eq or{0 J 0 j[]0 d $t $c $m $y $k $n $o @scc_5 pop $ctm setmatrix 72
+1000 div dup matrix scale dup concat dup Bburx exch Bbury exch itransform
+ceiling cvi/Bbury xd ceiling cvi/Bburx xd Bbllx exch Bblly exch itransform
+floor cvi/Bblly xd floor cvi/Bbllx xd $Prm aload pop $Psn load exec}{1 SetGry
+wfill}ifelse @rs @np}bd/F{matrix currentmatrix $sdf{$scf $sca $scp @ss}if $fil
+1 eq{CorelPtrnDoFill}{$fil 2 eq{@ff}{$fil 3 eq{@Pf}{$fil 4 eq
+{CorelShfillDoFill}{$t $c $m $y $k $n $o @scc_5{wfill}{@np}ifelse}ifelse}
+ifelse}ifelse}ifelse $sdf{$dsf $dsa $dsp @ss}if setmatrix}bd/f{@cp F}bd/S{
+matrix currentmatrix $ctm setmatrix $SDF{$SCF $SCA $SCP @ss}if $T $C $M $Y $K
+$N $O @scc_5{matrix currentmatrix $ptm concat stroke setmatrix}{@np}ifelse $SDF
+{$dsf $dsa $dsp @ss}if setmatrix}bd/s{@cp S}bd/B{@gs F @gr S}bd/b{@cp B}bd/_E{
+5 array astore exch cvlit xd}bd/@cc{currentfile $dat readhexstring pop}bd/@sm{
+/$ctm $ctm currentmatrix def}bd/@E{/Bbury xd/Bburx xd/Bblly xd/Bbllx xd}bd/@c{
+@cp}bd/@P{/$fil 3 def/$Psn xd/$Psc xd array astore/$Prm xd}bd/tcc{@cc}def/@B{
+@gs S @gr F}bd/@b{@cp @B}bd/@sep{CurrentInkName_5(Composite)eq{/$ink_5 -1 def}
+{CurrentInkName_5(Cyan)eq{/$ink_5 0 def}{CurrentInkName_5(Magenta)eq{/$ink_5 1
+def}{CurrentInkName_5(Yellow)eq{/$ink_5 2 def}{CurrentInkName_5(Black)eq
+{/$ink_5 3 def}{/$ink_5 4 def}ifelse}ifelse}ifelse}ifelse}ifelse}bd/@whi{@gs
+-72000 dup m -72000 72000 l 72000 dup l 72000 -72000 l @cp 1 SetGry fill @gr}
+bd/@neg{[{1 exch sub}/exec cvx currenttransfer/exec cvx]cvx settransfer @whi}
+bd/deflevel 0 def/@sax{/deflevel deflevel 1 add def}bd/@eax{/deflevel deflevel
+dup 0 gt{1 sub}if def deflevel 0 gt{/eax load}{eax}ifelse}bd/eax{{exec}forall}
+bd/@rax{deflevel 0 eq{@rs @sv}if}bd systemdict/pdfmark known not{/pdfmark
+/cleartomark ld}if/wclip{1 $fm eq{clip}{eoclip}ifelse}bd
+% Copyright (c)1992-2003 Corel Corporation
+% All rights reserved.     v12 r0.0
+/@ii{concat 3 index 3 index m 3 index 1 index l 2 copy l 1 index 3 index l 3
+index 3 index l clip pop pop pop pop}bd/@i{@sm @gs @ii 6 index 1 ne{/$frg true
+def pop pop}{1 eq{s1t s1c s1m s1y s1k s1n $O @scc_5/$frg xd}{/$frg false def}
+ifelse 1 eq{@gs $ctm setmatrix F @gr}if}ifelse @np/$ury xd/$urx xd/$lly xd
+/$llx xd/$bts xd/$hei xd/$wid xd/$dat $wid $bts mul 8 div ceiling cvi string
+def $bkg $frg or{$SDF{$SCF $SCA $SCP @ss}if $llx $lly Tl $urx $llx sub $ury
+$lly sub scale $bkg{$t $c $m $y $k $n $o @scc_5 pop}if $wid $hei abs $bts 1 eq
+{$bkg}{$bts}ifelse[$wid 0 0 $hei neg 0 $hei 0 gt{$hei}{0}ifelse]/tcc load $bts
+1 eq{imagemask}{image}ifelse $SDF{$dsf $dsa $dsp @ss}if}{$hei abs{tcc pop}
+repeat}ifelse @gr $ctm setmatrix}bd/@I{@sm @gs @ii @np/$ury xd/$urx xd/$lly xd
+/$llx xd/$ncl xd/$bts xd/$hei xd/$wid xd $ngx $llx $lly Tl $urx $llx sub $ury
+$lly sub scale $wid $hei abs $bts[$wid 0 0 $hei neg 0 $hei 0 gt{$hei}{0}ifelse
+]$msimage false eq $ncl 1 eq or{/$dat $wid $bts mul $ncl mul 8 div ceiling cvi
+string def/@cc load false $ncl ColorImage}{$wid $bts mul 8 div ceiling cvi $ncl
+3 eq{dup dup/$dat1 exch string def/$dat2 exch string def/$dat3 exch string def
+/@cc1 load/@cc2 load/@cc3 load}{dup dup dup/$dat1 exch string def/$dat2 exch
+string def/$dat3 exch string def/$dat4 exch string def/@cc1 load/@cc2 load
+/@cc3 load/@cc4 load}ifelse true $ncl ColorImage}ifelse $SDF{$dsf $dsa $dsp
+@ss}if @gr $ctm setmatrix}bd/@cc1{currentfile $dat1 readhexstring pop}bd/@cc2{
+currentfile $dat2 readhexstring pop}bd/@cc3{currentfile $dat3 readhexstring pop
+}bd/@cc4{currentfile $dat4 readhexstring pop}bd/$msimage false def/COMP 0 def
+/MaskedImage false def L2?{/@I_2{@sm @gs @ii @np/$ury xd/$urx xd/$lly xd/$llx
+xd/$ncl xd/$bts xd/$hei xd/$wid xd/$dat $wid $bts mul $ncl mul 8 div ceiling
+cvi string def $ngx $ncl 1 eq{/DeviceGray}{$ncl 3 eq{/DeviceRGB}{/DeviceCMYK}
+ifelse}ifelse setcolorspace $llx $lly Tl $urx $llx sub $ury $lly sub scale 8
+dict begin/ImageType 1 def/Width $wid def/Height $hei abs def/BitsPerComponent
+$bts def/Decode $ncl 1 eq{[0 1]}{$ncl 3 eq{[0 1 0 1 0 1]}{[0 1 0 1 0 1 0 1]}
+ifelse}ifelse def/ImageMatrix[$wid 0 0 $hei neg 0 $hei 0 gt{$hei}{0}ifelse]def
+/DataSource currentfile/ASCII85Decode filter COMP 1 eq{/DCTDecode filter}{COMP
+2 eq{/RunLengthDecode filter}if}ifelse def currentdict end image $SDF{$dsf $dsa
+$dsp @ss}if @gr $ctm setmatrix}bd}{/@I_2{}bd}ifelse/@I_3{@sm @gs @ii @np/$ury
+xd/$urx xd/$lly xd/$llx xd/$ncl xd/$bts xd/$hei xd/$wid xd/$dat $wid $bts mul
+$ncl mul 8 div ceiling cvi string def $ngx $ncl 1 eq{/DeviceGray}{$ncl 3 eq
+{/DeviceRGB}{/DeviceCMYK}ifelse}ifelse setcolorspace $llx $lly Tl $urx $llx sub
+$ury $lly sub scale/ImageDataDict 8 dict def ImageDataDict begin/ImageType 1
+def/Width $wid def/Height $hei abs def/BitsPerComponent $bts def/Decode $ncl 1
+eq{[0 1]}{$ncl 3 eq{[0 1 0 1 0 1]}{[0 1 0 1 0 1 0 1]}ifelse}ifelse def
+/ImageMatrix[$wid 0 0 $hei neg 0 $hei 0 gt{$hei}{0}ifelse]def/DataSource
+currentfile/ASCII85Decode filter COMP 1 eq{/DCTDecode filter}{COMP 2 eq{
+/RunLengthDecode filter}if}ifelse def end/MaskedImageDict 7 dict def
+MaskedImageDict begin/ImageType 3 def/InterleaveType 3 def/MaskDict
+ImageMaskDict def/DataDict ImageDataDict def end MaskedImageDict image $SDF
+{$dsf $dsa $dsp @ss}if @gr $ctm setmatrix}bd/@SetMask{/$mbts xd/$mhei xd/$mwid
+xd/ImageMaskDict 8 dict def ImageMaskDict begin/ImageType 1 def/Width $mwid def
+/Height $mhei abs def/BitsPerComponent $mbts def/DataSource maskstream def
+/ImageMatrix[$mwid 0 0 $mhei neg 0 $mhei 0 gt{$mhei}{0}ifelse]def/Decode[1 0]
+def end}bd/@daq{dup type/arraytype eq{{}forall}if}bd/@BMP{/@cc xd UseLevel 3 eq
+MaskedImage true eq and{7 -2 roll pop pop @I_3}{12 index 1 gt UseLevel 2 eq
+UseLevel 3 eq or and{7 -2 roll pop pop @I_2}{11 index 1 eq{12 -1 roll pop @i}{
+7 -2 roll pop pop @I}ifelse}ifelse}ifelse}bd
+end
+%%EndResource
+%%EndProlog
+%%BeginSetup
+wCorel12Dict begin
+@BeginSysCorelDict
+2.6131 setmiterlimit
+1.00 setflat
+/$fst 128 def
+%%EndSetup
+
+%%Page: 1 1
+%LogicalPage: 1
+%%BeginPageSetup
+@sv
+@sm
+@sv
+%%EndPageSetup
+@rax %Note: Object
+0.00000 0.00000 192.75591 192.75591 @E
+ 0 O 0 @g
+0.00 0.00 0.00 0.00 k
+/$fm 0 def
+0.00000 192.75591 m
+192.75591 192.75591 L
+192.75591 0.00000 L
+0.00000 0.00000 L
+0.00000 192.75591 L
+@c
+F
+
+@rax %Note: Object
+20.91260 8.50394 171.84331 184.25197 @E
+ 0 O 0 @g
+0.00 0.00 0.00 1.00 k
+/$fm 1 def
+98.51329 184.25197 m
+113.33225 184.09776 127.84224 180.60463 141.98485 173.74224 C
+130.19868 149.69962 139.76872 139.72677 170.62781 143.89058 C
+171.27751 137.92167 171.67890 132.13502 171.84331 126.52186 C
+171.84331 115.35194 L
+170.22161 62.50649 145.10636 26.87499 96.51203 8.50394 C
+96.32523 8.50394 L
+46.48082 27.34781 21.33666 64.34957 20.91260 119.46246 C
+20.91260 122.35861 L
+20.96646 129.25843 21.39817 136.43546 22.20973 143.89058 C
+53.06882 139.72677 62.63830 149.69962 50.85269 173.74224 C
+64.99474 180.60463 79.50529 184.09776 94.32425 184.25197 C
+96.41877 184.25197 L
+98.51329 184.25197 L
+@c
+F
+
+@rax %Note: Object
+24.72605 12.56428 168.11121 180.44986 @E
+ 0 O 0 @g
+0.00 0.00 0.00 0.00 k
+/$fm 1 def
+96.45987 180.44476 m
+96.37739 180.44476 L
+82.63559 180.59329 69.04006 177.68013 55.89978 171.85039 C
+58.33049 166.18139 59.56328 161.24683 59.56328 157.01471 C
+59.56328 153.19474 58.57483 149.93688 56.60192 147.19946 C
+51.77452 140.50290 41.61515 138.02825 25.62718 139.65704 C
+25.03786 133.25244 24.72605 127.04173 24.72605 121.05496 C
+24.72605 97.36696 29.33121 76.99124 38.48910 60.27902 C
+44.40841 49.47704 52.36980 39.95348 62.15159 31.97339 C
+71.67146 24.20731 83.20507 17.69017 96.41877 12.56428 C
+109.63219 17.69017 121.16580 24.20731 130.68567 31.97339 C
+140.46775 39.95348 148.42885 49.47704 154.34816 60.27902 C
+163.50576 76.99124 168.11121 97.36696 168.11121 121.05496 C
+168.11121 127.04173 167.79883 133.25244 167.21036 139.65704 C
+151.22239 138.02825 141.06246 140.50346 136.23506 147.20003 C
+134.26271 149.93688 133.27427 153.19474 133.27427 157.01471 C
+133.27427 161.24683 134.50677 166.18139 136.93748 171.85039 C
+123.79720 177.68013 110.20167 180.59329 96.45987 180.44476 C
+@c
+F
+
+@rax %Note: Object
+28.53354 16.67509 164.30372 176.64265 @E
+ 0 O 0 @g
+0.00 0.00 0.00 1.00 k
+/$fm 1 def
+96.50098 176.63754 m
+96.33628 176.63754 L
+84.36983 176.76709 72.43767 174.43956 60.80825 169.76580 C
+62.51839 165.03789 63.37020 160.83383 63.37020 157.01471 C
+63.37020 152.41209 62.13203 148.36110 59.69027 144.97370 C
+54.42406 137.66797 44.39480 134.57679 29.11266 135.55276 C
+28.73367 130.51559 28.53354 125.64850 28.53354 121.05496 C
+28.53354 98.03991 33.00661 78.20759 41.82803 62.10879 C
+47.51036 51.73852 55.15824 42.59225 64.55820 34.92340 C
+73.40031 27.71036 84.12378 21.58328 96.41877 16.67509 C
+108.71320 21.58328 119.43694 27.71036 128.27877 34.92340 C
+137.67902 42.59197 145.32661 51.73824 151.00951 62.10879 C
+159.83093 78.20731 164.30372 98.03962 164.30372 121.05496 C
+164.30372 125.64907 164.10331 130.51616 163.72460 135.55276 C
+148.44217 134.57735 138.41263 137.66825 133.14671 144.97370 C
+130.70494 148.36139 129.46734 152.41209 129.46734 157.01471 C
+129.46734 160.83383 130.31915 165.03789 132.02929 169.76580 C
+120.39987 174.43956 108.46772 176.76709 96.50098 176.63754 C
+@c
+F
+
+@rax %Note: Object
+37.35326 44.19638 162.83707 151.64787 @E
+ 0 O 0 @g
+0.00 0.00 0.00 0.00 k
+/$fm 1 def
+162.83707 134.55666 m
+147.86079 133.78422 137.68639 137.04123 132.38135 144.39543 C
+130.83647 146.57754 129.72813 148.99521 129.12378 151.64787 C
+37.35326 74.04803 L
+38.89814 70.05175 40.67773 66.19039 42.65887 62.56403 C
+46.35269 55.88192 50.78494 49.77043 55.98964 44.19638 C
+162.83707 134.55666 L
+@c
+F
+
+@rax %Note: Object
+39.61162 99.23017 60.16195 130.17883 @E
+ 0 O 0 @g
+0.00 0.00 0.00 0.00 k
+/$fm 1 def
+46.53978 126.88441 m
+47.21584 126.88441 47.81537 126.80702 48.41433 126.63298 C
+50.63698 126.63298 52.66573 126.26561 54.54000 125.53172 C
+54.11509 126.18850 53.61279 126.82630 52.99427 127.42554 C
+51.31304 129.16460 49.16806 130.03398 46.53978 130.01499 C
+45.36113 130.01499 44.31742 129.84066 43.37036 129.49313 C
+42.21128 130.01499 41.26394 130.22731 40.56831 130.16976 C
+39.96907 130.13093 39.66009 129.93789 39.62183 129.59008 C
+39.56343 129.10677 39.75676 128.77795 40.20123 128.56564 C
+40.82003 128.33348 41.32205 127.61830 41.70869 126.43994 C
+41.70869 107.94586 L
+42.63619 107.21112 43.67991 106.68983 44.83928 106.32246 C
+44.83928 112.29420 L
+46.53978 112.29420 L
+47.37061 112.29420 48.16318 112.39030 48.93619 112.60318 C
+50.75291 110.53559 52.02822 107.92658 52.78195 104.73817 C
+53.45802 102.07106 54.59839 100.37027 56.16397 99.63609 C
+56.64671 99.44249 57.24567 99.28828 57.99969 99.23017 C
+60.14466 99.28828 60.68580 100.48620 59.66135 102.82450 C
+59.58397 102.82450 59.52614 102.80580 59.50687 102.76696 C
+58.65647 102.32220 57.99969 102.24510 57.51638 102.49597 C
+56.84060 102.80580 56.27962 103.81011 55.81587 105.52989 C
+55.00431 108.75742 53.70945 111.55946 51.91200 113.95587 C
+52.91717 114.86381 L
+54.36652 116.21679 55.23619 117.78208 55.56444 119.56025 C
+54.65622 120.31342 53.65162 120.89367 52.58863 121.31830 C
+52.58863 121.28031 52.58863 121.22192 52.58863 121.18309 C
+52.58863 119.61836 51.98939 118.24583 50.81074 117.06718 C
+50.40454 116.66126 49.78658 116.29389 48.97474 115.94636 C
+48.08580 115.59855 47.27452 115.40494 46.53978 115.40494 C
+44.83928 115.40494 L
+44.83928 126.69109 L
+45.32258 126.84586 45.90198 126.90397 46.53978 126.88441 C
+@c
+F
+
+@rax %Note: Object
+45.55446 118.88362 58.46343 125.91780 @E
+ 0 O 0 @g
+0.00 0.00 0.00 0.00 k
+/$fm 1 def
+45.55446 125.68592 m
+45.55446 122.49751 L
+46.44312 122.69055 47.37061 122.78693 48.37578 122.78693 C
+51.39043 122.78693 53.96060 121.89798 56.06702 120.08183 C
+57.26523 118.88362 L
+58.46343 118.88362 L
+58.46343 124.50756 L
+57.32306 124.50756 L
+56.89786 123.94687 56.43439 123.77282 55.91225 124.04381 C
+53.67090 125.28000 51.15855 125.91780 48.37578 125.91780 C
+47.39017 125.91780 46.46239 125.82113 45.55446 125.68592 C
+@c
+F
+
+@rax %Note: Object
+34.57757 101.99367 52.74283 124.04381 @E
+ 0 O 0 @g
+0.00 0.00 0.00 0.00 k
+/$fm 1 def
+40.97424 124.04381 m
+40.20123 123.59877 39.44750 123.07720 38.75187 122.47824 C
+35.96910 120.12038 34.57757 117.27978 34.57757 113.95587 C
+34.57757 110.67052 35.96910 107.82964 38.75187 105.41424 C
+41.39915 103.13405 44.60769 101.99367 48.37578 101.99367 C
+49.90252 101.99367 51.37115 102.18671 52.74283 102.55436 C
+52.47298 103.15304 52.25981 103.82939 52.06677 104.56384 C
+51.98939 104.89209 51.91200 105.22120 51.81562 105.52989 C
+50.75291 105.24047 49.59326 105.10526 48.37578 105.10526 C
+45.32258 105.10526 42.79096 105.99420 40.78120 107.75225 C
+38.73260 109.54970 37.70844 111.61757 37.70844 113.95587 C
+37.70844 116.35228 38.73260 118.40060 40.78120 120.08183 C
+40.83902 120.15893 40.91613 120.21704 40.97424 120.27487 C
+40.97424 124.04381 L
+@c
+F
+
+@rax %Note: Object
+40.04674 98.34123 46.50151 102.63146 @E
+ 0 O 0 @g
+0.00 0.00 0.00 0.00 k
+/$fm 1 def
+44.83928 101.47181 m
+44.83928 101.60731 L
+43.73773 101.83890 42.69430 102.18671 41.70869 102.63146 C
+41.70869 101.47181 L
+41.45754 100.87285 40.87757 100.58287 40.04674 100.58287 C
+40.04674 98.34123 L
+46.50151 98.34123 L
+46.50151 100.58287 L
+45.70894 100.58287 45.16781 100.87285 44.83928 101.47181 C
+@c
+F
+
+@rax %Note: Object
+55.95109 104.48674 59.17861 109.78186 @E
+ 0 O 0 @g
+0.00 0.00 0.00 0.00 k
+/$fm 1 def
+56.06702 107.75225 m
+56.02847 107.73326 55.98964 107.69443 55.95109 107.65587 C
+56.16397 107.01808 56.33773 106.38028 56.51150 105.70422 C
+56.64671 105.24047 56.78220 104.81499 56.91742 104.48674 C
+57.32306 104.75717 57.70942 105.04715 58.09606 105.37540 C
+59.17861 106.45795 L
+57.84491 109.78186 L
+57.34261 109.02813 56.76293 108.35206 56.06702 107.75225 C
+@c
+F
+
+@rax %Note: Object
+82.63984 44.32677 89.07506 50.27896 @E
+ 0 O 0 @g
+0.00 0.00 0.00 0.00 k
+/$fm 1 def
+82.63984 50.27896 m
+82.63984 48.03732 L
+83.54778 48.09515 84.28252 47.65068 84.82365 46.74217 C
+85.90592 44.32677 L
+86.11824 44.53937 86.33083 44.75197 86.56271 44.94501 C
+87.14268 45.48614 87.76091 45.98872 88.39843 46.41364 C
+88.24394 46.74217 L
+87.93496 47.55430 88.20539 47.99849 89.07506 48.03732 C
+89.07506 50.27896 L
+82.63984 50.27896 L
+@c
+F
+
+@rax %Note: Object
+100.41846 37.48564 110.19713 50.27896 @E
+ 0 O 0 @g
+0.00 0.00 0.00 0.00 k
+/$fm 1 def
+110.19713 48.03732 m
+110.19713 50.27896 L
+103.74265 50.27896 L
+103.74265 48.03732 L
+104.57376 47.99849 104.84419 47.55430 104.59304 46.74217 C
+100.41846 37.48564 L
+103.83959 37.48564 L
+108.01361 46.74217 L
+108.49663 47.65068 109.23109 48.09515 110.19713 48.03732 C
+@c
+F
+
+@rax %Note: Object
+105.32750 38.20082 109.79150 42.93524 @E
+ 0 O 0 @g
+0.00 0.00 0.00 0.00 k
+/$fm 1 def
+107.10539 42.93524 m
+105.32750 38.97354 L
+106.10022 38.20082 L
+109.79150 41.89209 L
+108.99865 42.68438 L
+108.26476 42.37483 107.66580 42.41339 107.24031 42.78104 C
+107.20148 42.83887 107.16321 42.87742 107.10539 42.93524 C
+@c
+F
+
+@rax %Note: Object
+95.48022 23.28180 106.44803 36.75146 @E
+ 0 O 0 @g
+0.00 0.00 0.00 0.00 k
+/$fm 1 def
+105.98457 36.28772 m
+105.67531 36.59726 105.30822 36.75146 104.90202 36.75146 C
+95.49071 36.75146 L
+95.31723 34.60649 97.13339 33.58233 100.88220 33.62088 C
+103.33701 33.62088 L
+103.33701 28.90545 L
+102.27373 27.97767 101.11436 27.30161 99.85833 26.87669 C
+98.25449 23.28180 L
+101.05682 23.64945 103.54904 24.80882 105.67531 26.76047 C
+105.73313 26.81830 L
+106.04239 27.07002 L
+106.31282 27.41726 106.44803 27.76507 106.44803 28.17099 C
+106.44803 35.18617 L
+106.44803 35.61109 106.29354 35.97846 105.98457 36.28772 C
+@c
+F
+
+@rax %Note: Object
+83.10359 23.26280 103.49121 48.03732 @E
+ 0 O 0 @g
+0.00 0.00 0.00 0.00 k
+/$fm 1 def
+102.19663 43.20595 m
+103.49121 46.10466 L
+101.40435 47.37997 99.02750 48.03732 96.36066 48.03732 C
+92.74677 48.03732 89.63546 46.81956 87.04602 44.40444 C
+84.41802 42.06586 83.10359 39.14787 83.10359 35.61109 C
+83.10359 32.19080 84.41802 29.25326 87.04602 26.76047 C
+89.20998 24.76998 91.72233 23.61033 94.60205 23.26280 C
+93.01748 26.81830 L
+91.60668 27.26277 90.33137 28.01622 89.13288 29.05994 C
+87.18123 30.93477 86.21461 33.11830 86.21461 35.61109 C
+86.21461 38.16227 87.18123 40.32652 89.13288 42.10469 C
+91.16192 43.97896 93.57761 44.92602 96.36066 44.92602 C
+98.54447 44.92602 100.47685 44.34605 102.19663 43.20595 C
+@c
+F
+
+@rax %Note: Object
+88.03134 21.04016 101.79099 42.16224 @E
+ 0 O 0 @g
+0.00 0.00 0.00 0.00 k
+/$fm 1 def
+89.63546 41.56356 m
+88.97839 40.96431 88.43726 40.30724 88.03134 39.61162 C
+96.41877 21.04016 L
+101.79099 32.90542 L
+100.88220 32.90542 L
+99.95499 32.88643 99.14315 32.94482 98.42825 33.06047 C
+96.41877 28.63502 L
+90.31209 42.16224 L
+90.07994 41.96920 89.84778 41.77587 89.63546 41.56356 C
+@c
+F
+
+@rax %Note: Object
+58.65477 73.43235 133.36101 173.56195 @E
+ 0 O 0 @g
+0.00 0.00 0.00 1.00 k
+/$fm 1 def
+133.36101 118.62935 m
+133.36101 119.64557 132.90009 120.56400 131.97969 121.37528 C
+131.88444 121.45890 L
+131.75773 121.45890 L
+120.40101 121.45890 L
+120.37323 121.94561 120.34148 122.43146 120.30491 122.91647 C
+122.90513 127.43433 124.22154 132.52224 124.22154 138.09657 C
+124.22154 138.46082 124.21474 138.82762 124.20369 139.19613 C
+124.55036 139.91329 124.73518 140.54428 124.73518 141.07550 C
+124.73518 141.67276 124.51606 142.15096 124.07783 142.50501 C
+123.98542 142.57984 L
+123.86665 142.57984 L
+109.02699 142.57984 L
+109.53694 144.58309 109.79263 146.84003 109.79263 149.42381 C
+109.79263 149.88104 109.78186 150.35216 109.76627 150.83065 C
+110.15575 151.17364 110.49335 151.66885 110.49335 152.39055 C
+110.49335 152.85969 110.35191 153.42066 109.99191 154.08879 C
+109.89694 154.26539 L
+109.89694 154.26539 108.02239 154.26539 105.22431 154.26539 C
+102.34573 155.98120 99.46460 158.16728 96.63477 160.74425 C
+96.92022 161.02913 99.01020 163.11912 99.01020 163.11912 C
+99.01020 163.11912 95.84391 163.11912 95.01165 163.11912 C
+95.01165 164.35361 95.01165 170.93424 95.01165 171.60038 C
+95.13411 171.68655 96.14183 172.39833 96.14183 172.39833 C
+94.49206 173.56195 L
+94.24998 173.56195 L
+93.39222 173.56195 L
+93.39222 173.56195 92.35219 172.78243 92.11153 172.60186 C
+90.92721 172.42157 89.79307 172.09644 88.73065 171.61370 C
+88.28419 171.41017 L
+88.28419 171.41017 88.28419 169.90696 88.28419 169.29043 C
+86.72967 168.76715 84.95235 168.44598 82.96724 168.35669 C
+80.44186 168.24359 L
+82.60980 166.94277 L
+85.11052 165.44239 87.75780 164.84315 90.47707 165.16091 C
+91.03833 165.22611 L
+91.03833 165.22611 91.15172 165.85965 91.16929 165.95915 C
+91.57068 165.86277 91.97717 165.74457 92.38932 165.57959 C
+92.41002 165.57109 L
+92.43128 165.56400 L
+92.56706 165.51865 92.72239 165.45090 92.88454 165.37436 C
+92.88454 164.84428 92.88454 163.88816 92.88454 163.11912 C
+92.05880 163.11912 88.92000 163.11912 88.92000 163.11912 C
+88.92000 163.11912 91.03351 161.00561 91.30706 160.73206 C
+88.40693 158.11200 85.56718 155.97241 82.67584 154.26539 C
+81.38920 154.26539 80.61789 154.26539 80.61789 154.26539 C
+80.46652 154.27446 80.32649 154.22939 80.21055 154.13216 C
+79.98888 153.94620 79.87606 153.58819 79.84545 152.97222 C
+79.84545 152.97165 79.84545 152.97137 79.84545 152.97080 C
+79.84545 152.16860 80.15868 151.50217 80.75934 150.96501 C
+81.64687 148.61594 82.09502 146.24617 82.09502 143.88548 C
+82.09502 142.77317 81.99609 141.66255 81.79767 140.55732 C
+81.68854 139.94759 L
+82.25915 140.18882 L
+82.89496 140.45726 83.52369 140.70983 84.14617 140.94850 C
+84.14957 140.77332 84.17225 140.58709 84.21902 140.38781 C
+84.26041 140.04227 84.65811 139.69984 85.62728 139.18564 C
+86.00230 138.42822 86.32970 137.66825 86.61742 136.90517 C
+82.14208 136.90517 77.93461 136.90517 77.93291 136.90517 C
+76.74690 137.04548 75.91833 136.62198 75.59915 135.70583 C
+75.51666 135.49465 75.47528 135.28290 75.47528 135.07002 C
+75.47528 134.36872 75.93392 133.65439 76.84668 132.91030 C
+77.53068 131.51764 78.01540 130.16126 78.31106 128.84598 C
+66.39676 128.84598 L
+66.34857 128.83124 L
+65.58378 128.59597 65.10472 128.18863 64.92501 127.61972 C
+64.87285 127.45587 64.84677 127.28069 64.84677 127.09417 C
+64.84677 126.28913 65.33433 125.26498 66.31342 123.99024 C
+68.17380 118.96809 69.10356 114.00831 69.10356 109.12677 C
+69.10356 99.88214 65.77257 90.91843 59.13014 82.34419 C
+58.65477 81.72992 L
+59.42806 81.80391 L
+63.82460 82.22627 68.02866 82.58145 72.03855 82.87030 C
+70.42252 79.91320 68.41843 76.99663 66.02145 74.12683 C
+65.44205 73.43235 L
+66.33439 73.58031 L
+84.68646 76.61679 101.02535 76.61764 114.89669 73.58372 C
+115.04239 73.55169 L
+115.16315 73.63814 L
+126.84898 81.97087 132.77027 96.08797 132.77027 115.60791 C
+132.77027 115.91320 132.76857 116.21962 132.76517 116.52718 C
+133.15380 117.26617 133.36101 117.96973 133.36101 118.62935 C
+133.36101 118.62935 L
+@c
+92.64954 154.26539 m
+92.00920 154.26539 91.37622 154.26539 90.75515 154.26539 C
+91.43150 155.20535 92.06561 156.19209 92.64954 157.22816 C
+92.64954 156.27373 92.64954 155.15688 92.64954 154.26539 C
+92.64954 154.26539 L
+@c
+99.93487 154.26539 m
+99.39260 154.93578 98.88293 155.63310 98.39962 156.34942 C
+99.32655 155.61921 100.26255 154.92359 101.20649 154.26539 C
+100.78951 154.26539 100.36545 154.26539 99.93487 154.26539 C
+99.93487 154.26539 L
+@c
+95.28038 154.26539 m
+95.28038 155.21102 95.28038 156.31739 95.28038 157.22816 C
+95.86403 156.19209 96.49843 155.20535 97.17477 154.26539 C
+96.54633 154.26539 95.91364 154.26539 95.28038 154.26539 C
+95.28038 154.26539 L
+@c
+86.71266 154.26539 m
+87.66028 154.92359 88.60110 155.62063 89.53342 156.35452 C
+89.04954 155.63594 88.53817 154.93720 87.99477 154.26539 C
+87.55427 154.26539 87.12709 154.26539 86.71266 154.26539 C
+86.71266 154.26539 L
+@c
+104.92980 142.57984 m
+89.13572 142.57984 L
+95.18287 144.19417 100.46750 144.19616 104.92980 142.57984 C
+@c
+F
+
+@rax %Note: Object
+93.31002 165.85002 93.64620 171.99468 @E
+ 0 O 0 @g
+0.00 0.00 0.00 1.00 k
+/$fm 1 def
+93.31002 168.77140 m
+93.31002 167.93178 93.41121 167.12589 93.57874 166.28655 C
+93.61247 166.15247 93.64620 166.01783 93.64620 165.85002 C
+93.64620 171.99468 L
+93.41121 170.92006 93.31002 169.84573 93.31002 168.77140 C
+@c
+F
+
+@rax %Note: Object
+79.67707 134.05096 81.35603 134.72220 @E
+ 0 O 0 @g
+0.00 0.00 0.00 1.00 k
+/$fm 1 def
+81.35603 134.72220 m
+79.67707 134.72220 L
+79.67707 134.05096 L
+81.35603 134.05096 L
+81.35603 134.72220 L
+@c
+F
+
+@rax %Note: Object
+83.03499 134.05096 84.71395 134.72220 @E
+ 0 O 0 @g
+0.00 0.00 0.00 1.00 k
+/$fm 1 def
+84.71395 134.72220 m
+83.03499 134.72220 L
+83.03499 134.05096 L
+84.71395 134.05096 L
+84.71395 134.72220 L
+@c
+F
+
+@rax %Note: Object
+67.08643 74.27083 132.68268 120.78709 @E
+ 0 O 0 @g
+0.00 0.00 0.00 0.00 k
+/$fm 1 def
+67.08643 74.37770 m
+74.16765 83.09962 77.72910 92.23483 77.72910 101.67789 C
+77.72910 106.60961 76.76022 111.62580 74.81991 116.70945 C
+74.79978 116.76246 L
+74.76293 116.80639 L
+74.00069 117.71320 73.61631 118.47458 73.61631 119.07553 C
+73.61631 119.20791 73.63502 119.33263 73.67216 119.44970 C
+73.85839 120.03279 74.54268 120.48208 75.69893 120.78709 C
+75.80069 120.78709 131.33679 120.78709 131.61657 120.78709 C
+132.32154 120.13427 132.68268 119.41682 132.68268 118.61603 C
+132.68268 118.03805 132.49956 117.41839 132.13474 116.75140 C
+132.09279 116.67430 L
+132.09364 116.58671 L
+132.09676 116.25931 132.09846 115.93332 132.09846 115.60876 C
+132.09846 96.38249 126.30784 82.48110 114.88535 74.27083 C
+101.18268 77.24268 85.10457 77.27499 67.08643 74.37770 C
+@c
+F
+
+@rax %Note: Object
+60.09987 82.54006 88.00554 128.17446 @E
+ 0 O 0 @g
+0.00 0.00 0.00 0.00 k
+/$fm 1 def
+69.77962 109.11515 m
+69.77962 114.08882 68.83058 119.14299 66.92995 124.26208 C
+66.91209 124.30970 L
+66.88035 124.35109 L
+65.80658 125.73723 65.51943 126.58507 65.51943 127.09531 C
+65.51943 127.22230 65.53701 127.32860 65.56507 127.41676 C
+65.67335 127.75833 65.98460 128.00580 66.50759 128.17446 C
+66.56031 128.17446 76.67008 128.17446 88.00554 128.17446 C
+87.96501 127.44822 87.88677 126.72085 87.76998 125.99235 C
+86.39291 125.99235 L
+86.39291 125.32025 L
+87.64384 125.32025 L
+87.39581 124.03559 87.03524 122.74838 86.54995 121.45890 C
+75.60510 121.45890 L
+75.56343 121.44784 L
+74.14696 121.08076 73.29543 120.47698 73.03294 119.65380 C
+72.97313 119.46784 72.94337 119.27367 72.94337 119.07184 C
+72.94337 118.31698 73.36460 117.44476 74.20706 116.42882 C
+76.10400 111.44608 77.05219 106.52825 77.05219 101.69178 C
+77.05219 95.50772 75.50220 89.45603 72.41244 83.56734 C
+68.49298 83.28898 64.38898 82.94655 60.09987 82.54006 C
+66.53140 91.05619 69.77962 99.94677 69.77962 109.11515 C
+@c
+F
+
+@rax %Note: Object
+76.14907 128.84598 88.03928 136.26283 @E
+ 0 O 0 @g
+0.00 0.00 0.00 0.00 k
+/$fm 1 def
+77.39291 133.32699 m
+77.33395 133.37376 L
+76.38605 134.12665 76.14907 134.67572 76.14907 135.07370 C
+76.14907 135.22876 76.18507 135.36085 76.22901 135.47310 C
+76.44671 136.09814 77.00343 136.35043 77.88813 136.23619 C
+77.90967 136.23364 L
+77.90967 136.23364 82.32265 136.23364 86.85468 136.23364 C
+87.02674 135.73049 87.18123 135.22762 87.31559 134.72220 C
+86.39291 134.72220 L
+86.39291 134.05096 L
+87.48595 134.05096 L
+87.85049 132.48652 88.03928 130.91357 88.03928 129.33326 C
+88.03928 129.17112 88.02992 129.00869 88.02595 128.84598 C
+79.00072 128.84598 L
+78.69458 130.27493 78.17301 131.74894 77.42636 133.25924 C
+77.39291 133.32699 L
+@c
+F
+
+@rax %Note: Object
+84.81600 121.45890 124.05912 141.90803 @E
+ 0 O 0 @g
+0.00 0.00 0.00 0.00 k
+/$fm 1 def
+86.14091 139.67093 m
+86.04425 139.72167 L
+85.00762 140.26054 84.89027 140.47710 84.87723 140.51480 C
+84.83613 140.69282 84.81600 140.85071 84.81600 140.98961 C
+84.81600 141.20759 84.86617 141.37852 84.96539 141.50721 C
+85.15928 141.75836 85.56321 141.89357 86.16614 141.90803 C
+86.16614 141.90803 123.40715 141.90803 123.71272 141.90803 C
+123.93383 141.69543 124.05912 141.41735 124.05912 141.05594 C
+124.05912 140.61373 123.89528 140.06296 123.56646 139.40561 C
+123.52876 139.32964 L
+123.53102 139.24517 L
+123.54378 138.86022 123.54973 138.47839 123.54973 138.09827 C
+123.54973 131.89011 121.87446 126.30671 118.58513 121.45890 C
+117.06463 121.45890 L
+109.51739 126.66047 99.83792 126.66047 88.24082 121.45890 C
+87.23395 121.45890 L
+88.20142 124.09342 88.71364 126.72312 88.71364 129.33496 C
+88.71364 132.78671 87.87231 136.20841 86.18967 139.57342 C
+86.14091 139.67093 L
+@c
+F
+
+@rax %Note: Object
+80.51669 141.02391 109.82693 153.59357 @E
+ 0 O 0 @g
+0.00 0.00 0.00 0.00 k
+/$fm 1 def
+109.48592 153.59357 m
+109.72573 153.10460 109.82693 152.70633 109.82693 152.38743 C
+109.82693 151.80094 109.51342 151.46391 109.22315 151.24054 C
+109.08624 151.13537 L
+109.09219 150.96246 L
+109.11146 150.43606 109.12110 149.92328 109.12110 149.42268 C
+109.12110 146.82047 108.85096 144.56835 108.32230 142.57984 C
+106.66091 142.57984 L
+101.25383 145.07631 94.59298 145.07461 86.78750 142.57984 C
+86.15764 142.57984 L
+85.33446 142.55943 84.75732 142.33663 84.43361 141.91767 C
+84.38542 141.85474 84.34290 141.78841 84.30661 141.71811 C
+83.72268 141.49956 83.13335 141.26910 82.53723 141.02391 C
+82.67868 141.97578 82.76683 142.93020 82.76683 143.88690 C
+82.76683 146.34765 82.29912 148.81663 81.36822 151.26180 C
+81.33647 151.34428 L
+81.26901 151.40041 L
+80.76274 151.82192 80.51669 152.33102 80.51669 152.95550 C
+80.53795 153.37729 80.59890 153.53858 80.62838 153.59357 C
+80.65077 153.59357 109.07150 153.59357 109.48592 153.59357 C
+@c
+F
+
+@rax %Note: Object
+89.90476 121.45890 115.86302 124.69635 @E
+ 0 O 0 @g
+0.00 0.00 0.00 0.00 k
+/$fm 1 def
+115.86302 121.45890 m
+89.90476 121.45890 L
+100.23959 125.77550 108.94734 125.77493 115.86302 121.45890 C
+@c
+F
+
+@rax %Note: Object
+119.40406 121.45890 119.72636 121.90904 @E
+ 0 O 0 @g
+0.00 0.00 0.00 0.00 k
+/$fm 1 def
+119.40406 121.45890 m
+119.50214 121.60857 119.60192 121.75795 119.69717 121.90904 C
+119.70737 121.75909 119.71757 121.60913 119.72636 121.45890 C
+119.40406 121.45890 L
+@c
+F
+
+@rax %Note: Object
+83.00154 154.26539 103.76476 172.80057 @E
+ 0 O 0 @g
+0.00 0.00 0.00 0.00 k
+/$fm 1 def
+92.84003 161.08186 m
+92.03414 161.08186 L
+90.75798 162.35773 L
+93.64620 162.35773 L
+93.64620 165.85002 L
+93.31002 166.01783 92.97439 166.18564 92.67222 166.28655 C
+92.00041 166.55471 91.29543 166.75625 90.59046 166.85717 C
+90.55672 166.85717 90.55672 166.85717 90.55672 166.85717 C
+90.48954 166.55471 90.45609 166.21909 90.38863 165.91691 C
+87.80315 165.61474 85.35203 166.18564 83.00154 167.59587 C
+85.25112 167.69679 87.26598 168.06614 89.04557 168.73739 C
+89.04557 170.92006 L
+90.52299 171.59187 92.06759 171.92750 93.64620 171.99468 C
+93.10847 172.39776 L
+93.64620 172.80057 L
+94.24998 172.80057 L
+94.82088 172.39776 L
+94.24998 171.99468 L
+94.24998 162.35773 L
+97.17165 162.35773 L
+95.89550 161.08186 L
+95.12334 161.08186 L
+97.92907 158.42098 100.81020 156.13625 103.76476 154.26539 C
+103.36961 154.26539 102.96198 154.26539 102.54331 154.26539 C
+100.18828 155.82132 97.87209 157.62954 95.59332 159.70507 C
+96.51770 157.77496 97.64306 155.95739 98.96400 154.26539 C
+98.67940 154.26539 98.39424 154.26539 98.10680 154.26539 C
+96.66935 156.16205 95.48164 158.22454 94.51871 160.41033 C
+94.51871 154.26539 L
+94.14850 154.26539 93.77915 154.26539 93.41121 154.26539 C
+93.41121 160.41033 L
+92.44828 158.22454 91.26057 156.16205 89.82283 154.26539 C
+89.53370 154.26539 89.24825 154.26539 88.96592 154.26539 C
+90.28658 155.95739 91.41194 157.77496 92.33631 159.70507 C
+90.05811 157.62954 87.74135 155.82132 85.37244 154.26539 C
+84.94016 154.26539 84.52913 154.26539 84.14362 154.26539 C
+87.12028 156.13625 90.00539 158.42098 92.84003 161.08186 C
+@c
+F
+
+@rax %Note: Object
+78.66992 116.75792 80.34888 117.42973 @E
+ 0 O 0 @g
+0.00 0.00 0.00 1.00 k
+/$fm 1 def
+80.34888 117.42973 m
+78.66992 117.42973 L
+78.66992 116.75792 L
+80.34888 116.75792 L
+80.34888 117.42973 L
+@c
+F
+
+@rax %Note: Object
+82.02784 116.75792 83.70680 117.42973 @E
+ 0 O 0 @g
+0.00 0.00 0.00 1.00 k
+/$fm 1 def
+83.70680 117.42973 m
+82.02784 117.42973 L
+82.02784 116.75792 L
+83.70680 116.75792 L
+83.70680 117.42973 L
+@c
+F
+
+@rax %Note: Object
+85.38576 116.75792 87.06444 117.42973 @E
+ 0 O 0 @g
+0.00 0.00 0.00 1.00 k
+/$fm 1 def
+87.06444 117.42973 m
+85.38576 117.42973 L
+85.38576 116.75792 L
+87.06444 116.75792 L
+87.06444 117.42973 L
+@c
+F
+
+@rax %Note: Object
+88.74340 116.75792 90.42236 117.42973 @E
+ 0 O 0 @g
+0.00 0.00 0.00 1.00 k
+/$fm 1 def
+90.42236 117.42973 m
+88.74340 117.42973 L
+88.74340 116.75792 L
+90.42236 116.75792 L
+90.42236 117.42973 L
+@c
+F
+
+@rax %Note: Object
+92.10132 116.75792 93.78000 117.42973 @E
+ 0 O 0 @g
+0.00 0.00 0.00 1.00 k
+/$fm 1 def
+93.78000 117.42973 m
+92.10132 117.42973 L
+92.10132 116.75792 L
+93.78000 116.75792 L
+93.78000 117.42973 L
+@c
+F
+
+@rax %Note: Object
+105.53301 116.75792 107.21197 117.42973 @E
+ 0 O 0 @g
+0.00 0.00 0.00 1.00 k
+/$fm 1 def
+107.21197 117.42973 m
+105.53301 117.42973 L
+105.53301 116.75792 L
+107.21197 116.75792 L
+107.21197 117.42973 L
+@c
+F
+
+@rax %Note: Object
+102.17480 116.75792 103.85405 117.42973 @E
+ 0 O 0 @g
+0.00 0.00 0.00 1.00 k
+/$fm 1 def
+103.85405 117.42973 m
+102.17480 117.42973 L
+102.17480 116.75792 L
+103.85405 116.75792 L
+103.85405 117.42973 L
+@c
+F
+
+@rax %Note: Object
+98.81688 116.75792 100.49613 117.42973 @E
+ 0 O 0 @g
+0.00 0.00 0.00 1.00 k
+/$fm 1 def
+100.49613 117.42973 m
+98.81688 117.42973 L
+98.81688 116.75792 L
+100.49613 116.75792 L
+100.49613 117.42973 L
+@c
+F
+
+@rax %Note: Object
+95.45924 116.75792 97.13792 117.42973 @E
+ 0 O 0 @g
+0.00 0.00 0.00 1.00 k
+/$fm 1 def
+97.13792 117.42973 m
+95.45924 117.42973 L
+95.45924 116.75792 L
+97.13792 116.75792 L
+97.13792 117.42973 L
+@c
+F
+
+@rax %Note: Object
+108.89065 116.75792 110.56961 117.42973 @E
+ 0 O 0 @g
+0.00 0.00 0.00 1.00 k
+/$fm 1 def
+110.56961 117.42973 m
+108.89065 117.42973 L
+108.89065 116.75792 L
+110.56961 116.75792 L
+110.56961 117.42973 L
+@c
+F
+
+@rax %Note: Object
+112.24857 116.75792 113.92753 117.42973 @E
+ 0 O 0 @g
+0.00 0.00 0.00 1.00 k
+/$fm 1 def
+113.92753 117.42973 m
+112.24857 117.42973 L
+112.24857 116.75792 L
+113.92753 116.75792 L
+113.92753 117.42973 L
+@c
+F
+
+@rax %Note: Object
+115.60620 116.75792 117.28517 117.42973 @E
+ 0 O 0 @g
+0.00 0.00 0.00 1.00 k
+/$fm 1 def
+117.28517 117.42973 m
+115.60620 117.42973 L
+115.60620 116.75792 L
+117.28517 116.75792 L
+117.28517 117.42973 L
+@c
+F
+
+@rax %Note: Object
+118.96413 116.75792 120.64309 117.42973 @E
+ 0 O 0 @g
+0.00 0.00 0.00 1.00 k
+/$fm 1 def
+120.64309 116.75792 m
+120.64309 117.42973 L
+118.96413 117.42973 L
+118.96413 116.75792 L
+120.64309 116.75792 L
+@c
+F
+
+@rax %Note: Object
+122.32176 116.75792 124.00129 117.42973 @E
+ 0 O 0 @g
+0.00 0.00 0.00 1.00 k
+/$fm 1 def
+124.00129 117.42973 m
+122.32176 117.42973 L
+122.32176 116.75792 L
+124.00129 116.75792 L
+124.00129 117.42973 L
+@c
+F
+
+@rax %Note: Object
+125.67969 116.75792 127.35921 117.42973 @E
+ 0 O 0 @g
+0.00 0.00 0.00 1.00 k
+/$fm 1 def
+127.35921 117.42973 m
+125.67969 117.42973 L
+125.67969 116.75792 L
+127.35921 116.75792 L
+127.35921 117.42973 L
+@c
+F
+
+@rax %Note: Object
+84.88205 151.00838 86.56072 151.67962 @E
+ 0 O 0 @g
+0.00 0.00 0.00 1.00 k
+/$fm 1 def
+84.88205 151.00838 m
+86.56072 151.00838 L
+86.56072 151.67962 L
+84.88205 151.67962 L
+84.88205 151.00838 L
+@c
+F
+
+@rax %Note: Object
+88.23969 151.00838 89.91865 151.67962 @E
+ 0 O 0 @g
+0.00 0.00 0.00 1.00 k
+/$fm 1 def
+88.23969 151.00838 m
+89.91865 151.00838 L
+89.91865 151.67962 L
+88.23969 151.67962 L
+88.23969 151.00838 L
+@c
+F
+
+@rax %Note: Object
+91.59761 151.00838 93.27628 151.67962 @E
+ 0 O 0 @g
+0.00 0.00 0.00 1.00 k
+/$fm 1 def
+93.27628 151.67962 m
+91.59761 151.67962 L
+91.59761 151.00838 L
+93.27628 151.00838 L
+93.27628 151.67962 L
+@c
+F
+
+@rax %Note: Object
+94.95581 151.00838 96.63449 151.67962 @E
+ 0 O 0 @g
+0.00 0.00 0.00 1.00 k
+/$fm 1 def
+94.95581 151.00838 m
+96.63449 151.00838 L
+96.63449 151.67962 L
+94.95581 151.67962 L
+94.95581 151.00838 L
+@c
+F
+
+@rax %Note: Object
+98.31345 151.00838 99.99269 151.67962 @E
+ 0 O 0 @g
+0.00 0.00 0.00 1.00 k
+/$fm 1 def
+98.31345 151.00838 m
+99.99269 151.00838 L
+99.99269 151.67962 L
+98.31345 151.67962 L
+98.31345 151.00838 L
+@c
+F
+
+@rax %Note: Object
+105.02929 151.00838 106.70825 151.67962 @E
+ 0 O 0 @g
+0.00 0.00 0.00 1.00 k
+/$fm 1 def
+105.02929 151.00838 m
+106.70825 151.00838 L
+106.70825 151.67962 L
+105.02929 151.67962 L
+105.02929 151.00838 L
+@c
+F
+
+@rax %Note: Object
+101.67109 151.00838 103.35033 151.67962 @E
+ 0 O 0 @g
+0.00 0.00 0.00 1.00 k
+/$fm 1 def
+103.35033 151.67962 m
+101.67109 151.67962 L
+101.67109 151.00838 L
+103.35033 151.00838 L
+103.35033 151.67962 L
+@c
+F
+
+@rax %Note: Object
+88.91150 139.25565 90.59046 139.92718 @E
+ 0 O 0 @g
+0.00 0.00 0.00 1.00 k
+/$fm 1 def
+90.59046 139.92718 m
+88.91150 139.92718 L
+88.91150 139.25565 L
+90.59046 139.25565 L
+90.59046 139.92718 L
+@c
+F
+
+@rax %Note: Object
+92.26942 139.25565 93.94809 139.92718 @E
+ 0 O 0 @g
+0.00 0.00 0.00 1.00 k
+/$fm 1 def
+93.94809 139.92718 m
+92.26942 139.92718 L
+92.26942 139.25565 L
+93.94809 139.25565 L
+93.94809 139.92718 L
+@c
+F
+
+@rax %Note: Object
+95.62706 139.25565 97.30602 139.92718 @E
+ 0 O 0 @g
+0.00 0.00 0.00 1.00 k
+/$fm 1 def
+97.30602 139.92718 m
+95.62706 139.92718 L
+95.62706 139.25565 L
+97.30602 139.25565 L
+97.30602 139.92718 L
+@c
+F
+
+@rax %Note: Object
+98.98498 139.25565 100.66394 139.92718 @E
+ 0 O 0 @g
+0.00 0.00 0.00 1.00 k
+/$fm 1 def
+100.66394 139.92718 m
+98.98498 139.92718 L
+98.98498 139.25565 L
+100.66394 139.25565 L
+100.66394 139.92718 L
+@c
+F
+
+@rax %Note: Object
+102.34290 139.25565 104.02186 139.92718 @E
+ 0 O 0 @g
+0.00 0.00 0.00 1.00 k
+/$fm 1 def
+104.02186 139.92718 m
+102.34290 139.92718 L
+102.34290 139.25565 L
+104.02186 139.25565 L
+104.02186 139.92718 L
+@c
+F
+
+@rax %Note: Object
+115.77458 139.25565 117.45354 139.92718 @E
+ 0 O 0 @g
+0.00 0.00 0.00 1.00 k
+/$fm 1 def
+117.45354 139.92718 m
+115.77458 139.92718 L
+115.77458 139.25565 L
+117.45354 139.25565 L
+117.45354 139.92718 L
+@c
+F
+
+@rax %Note: Object
+112.41638 139.25565 114.09534 139.92718 @E
+ 0 O 0 @g
+0.00 0.00 0.00 1.00 k
+/$fm 1 def
+114.09534 139.92718 m
+112.41638 139.92718 L
+112.41638 139.25565 L
+114.09534 139.25565 L
+114.09534 139.92718 L
+@c
+F
+
+@rax %Note: Object
+109.05846 139.25565 110.73742 139.92718 @E
+ 0 O 0 @g
+0.00 0.00 0.00 1.00 k
+/$fm 1 def
+110.73742 139.92718 m
+109.05846 139.92718 L
+109.05846 139.25565 L
+110.73742 139.25565 L
+110.73742 139.92718 L
+@c
+F
+
+@rax %Note: Object
+105.70054 139.25565 107.37950 139.92718 @E
+ 0 O 0 @g
+0.00 0.00 0.00 1.00 k
+/$fm 1 def
+107.37950 139.92718 m
+105.70054 139.92718 L
+105.70054 139.25565 L
+107.37950 139.25565 L
+107.37950 139.92718 L
+@c
+F
+
+@rax %Note: Object
+119.13222 139.25565 120.81090 139.92718 @E
+ 0 O 0 @g
+0.00 0.00 0.00 1.00 k
+/$fm 1 def
+120.81090 139.92718 m
+119.13222 139.92718 L
+119.13222 139.25565 L
+120.81090 139.25565 L
+120.81090 139.92718 L
+@c
+F
+
+@rax %Note: Object
+69.60359 125.32025 71.28255 125.99235 @E
+ 0 O 0 @g
+0.00 0.00 0.00 1.00 k
+/$fm 1 def
+69.60359 125.99235 m
+69.60359 125.32025 L
+71.28255 125.32025 L
+71.28255 125.99235 L
+69.60359 125.99235 L
+@c
+F
+
+@rax %Note: Object
+72.96123 125.32025 74.64019 125.99235 @E
+ 0 O 0 @g
+0.00 0.00 0.00 1.00 k
+/$fm 1 def
+74.64019 125.99235 m
+72.96123 125.99235 L
+72.96123 125.32025 L
+74.64019 125.32025 L
+74.64019 125.99235 L
+@c
+F
+
+@rax %Note: Object
+76.31915 125.32025 77.99811 125.99235 @E
+ 0 O 0 @g
+0.00 0.00 0.00 1.00 k
+/$fm 1 def
+77.99811 125.99235 m
+76.31915 125.99235 L
+76.31915 125.32025 L
+77.99811 125.32025 L
+77.99811 125.99235 L
+@c
+F
+
+@rax %Note: Object
+79.67707 125.32025 81.35603 125.99235 @E
+ 0 O 0 @g
+0.00 0.00 0.00 1.00 k
+/$fm 1 def
+81.35603 125.99235 m
+79.67707 125.99235 L
+79.67707 125.32025 L
+81.35603 125.32025 L
+81.35603 125.99235 L
+@c
+F
+
+@rax %Note: Object
+83.03499 125.32025 84.71395 125.99235 @E
+ 0 O 0 @g
+0.00 0.00 0.00 1.00 k
+/$fm 1 def
+84.71395 125.99235 m
+83.03499 125.99235 L
+83.03499 125.32025 L
+84.71395 125.32025 L
+84.71395 125.99235 L
+@c
+F
+
+@rax %Note: Object
+92.16794 89.99235 116.18362 114.01342 @E
+ 0 O 0 @g
+0.00 1.00 1.00 0.00 k
+/$fm 1 def
+93.74287 114.01342 m
+97.36186 111.39789 99.39345 109.18970 100.63247 105.60529 C
+96.98882 107.06428 94.16976 109.48110 92.16794 112.43083 C
+92.16794 91.57465 L
+94.16976 94.52438 96.98882 96.94120 100.63247 98.39991 C
+99.39345 94.81578 97.36186 92.60759 93.74287 89.99235 C
+114.60898 89.99235 L
+110.96249 92.60759 108.97200 94.81578 107.71909 98.39991 C
+111.37691 96.94120 114.15515 94.52438 116.18362 91.57465 C
+116.18362 112.43083 L
+114.15515 109.48110 111.37691 107.06428 107.71909 105.60529 C
+108.97200 109.18970 110.96249 111.39789 114.60898 114.01342 C
+93.74287 114.01342 L
+@c
+F
+
+@rax %Note: Object
+99.65679 126.41811 110.82728 137.59087 @E
+ 0 O 0 @g
+0.00 1.00 1.00 0.00 k
+/$fm 1 def
+100.38926 137.59087 m
+102.07276 136.37424 103.01783 135.34696 103.59383 133.67991 C
+101.89871 134.35880 100.58740 135.48274 99.65679 136.85443 C
+99.65679 127.15398 L
+100.58740 128.52624 101.89871 129.65046 103.59383 130.32879 C
+103.01783 128.66173 102.07276 127.63474 100.38926 126.41811 C
+110.09452 126.41811 L
+108.39798 127.63474 107.47276 128.66173 106.88967 130.32879 C
+108.59131 129.65046 109.88334 128.52624 110.82728 127.15398 C
+110.82728 136.85443 L
+109.88334 135.48274 108.59131 134.35880 106.88967 133.67991 C
+107.47276 135.34696 108.39798 136.37424 110.09452 137.59087 C
+100.38926 137.59087 L
+@c
+F
+
+@rax %Note: Object
+57.56627 54.99241 141.40687 89.53257 @E
+ 0 O 0 @g
+0.00 0.00 0.00 1.00 k
+/$fm 1 def
+109.77449 86.89266 m
+110.04548 88.09767 109.71439 88.94154 108.75005 89.36306 C
+107.78627 89.81490 106.76211 89.36306 105.70762 88.00724 C
+98.92942 86.77191 92.33150 84.57307 85.97509 81.46998 C
+84.67965 80.83701 84.01691 79.75304 84.04724 78.24671 C
+84.04724 76.61962 83.08318 75.44494 81.09468 74.69150 C
+79.55830 74.11918 78.35329 74.20961 77.44961 74.96249 C
+77.11824 75.23405 76.69644 75.32419 76.15417 75.29414 C
+73.32236 75.02287 71.42428 74.72154 70.52060 74.30003 C
+70.36980 74.05880 70.36980 73.75748 70.46022 73.45616 C
+71.00249 71.61902 72.02693 70.41402 73.56331 69.78104 C
+73.59335 69.57014 73.74416 69.32920 73.95477 69.11830 C
+73.86463 69.14835 72.44844 69.35953 69.76743 69.72094 C
+67.05609 70.08236 63.74211 68.75717 59.82576 65.68384 C
+62.92885 67.31093 67.17657 67.76277 72.50882 67.06998 C
+74.25609 66.85880 75.67200 66.28649 76.81691 65.38252 C
+77.38923 64.96101 78.02192 64.50917 78.74504 64.11742 C
+76.18422 64.75011 L
+69.76743 65.41285 63.56154 64.23817 57.56627 61.16513 C
+64.37480 62.91213 69.79748 63.36425 73.89468 62.55099 C
+77.96183 61.73745 80.01014 60.92419 80.10057 60.08060 C
+79.04636 59.50800 78.26287 58.63465 77.66050 57.42964 C
+80.82369 57.82110 84.25786 57.76129 88.02369 57.30917 C
+91.15682 56.88709 94.22957 57.18841 97.21219 58.18280 C
+98.17625 57.70063 99.38126 57.33893 100.70646 57.18841 C
+100.28494 56.79666 99.71235 56.55600 99.04961 56.49562 C
+99.95357 55.83260 101.33943 55.38076 103.14680 55.13981 C
+106.24989 54.83849 109.44312 54.98929 112.63663 55.68208 C
+112.87757 54.95924 113.90202 54.83849 115.64929 55.29061 C
+120.52970 56.43524 125.56035 56.76661 130.71203 56.31477 C
+133.90526 56.01373 136.61660 57.30917 138.96652 60.11065 C
+137.67109 60.89414 136.13471 61.46617 134.29672 61.79783 C
+136.91792 62.18929 139.29789 63.27383 141.40687 65.08148 C
+139.59921 67.31093 136.37565 68.06381 131.82690 67.43112 C
+133.27285 68.24466 134.26696 69.32920 134.80894 70.74482 C
+131.85694 70.65468 128.72353 71.19694 125.50025 72.31153 C
+122.24665 73.42668 119.38450 73.18545 116.85430 71.58869 C
+114.35386 69.96217 112.81720 69.38929 112.27493 69.87146 C
+112.36535 70.20283 112.39569 70.59430 112.45550 70.95600 C
+113.08847 72.43228 113.50998 73.84819 113.69083 75.20372 C
+114.17272 75.65584 114.53443 76.22787 114.80570 76.95099 C
+115.13707 77.88472 115.22721 78.57751 115.01631 79.02964 C
+113.78126 81.98220 112.03398 84.60283 109.77449 86.89266 C
+@c
+F
+
+@rax %Note: Object
+102.79162 64.90857 109.20359 88.78649 @E
+ 0 O 0 @g
+0.00 0.00 0.00 0.00 k
+/$fm 1 def
+109.08170 87.13389 m
+109.35269 87.79635 109.17213 88.27824 108.53915 88.64022 C
+107.57537 89.18192 106.61131 88.21786 105.64724 85.80784 C
+104.65313 83.36806 104.17096 80.20488 104.23134 76.31830 C
+104.26167 72.46205 103.96035 69.53981 103.35798 67.58192 C
+102.72501 65.65380 102.63458 64.75011 103.02633 64.93068 C
+103.44813 65.11181 103.99039 66.07559 104.62280 67.79282 C
+105.28583 69.53981 105.79805 72.10063 106.15946 75.47471 C
+106.64135 79.72271 107.60542 83.63906 109.08170 87.13389 C
+@c
+F
+
+@rax %Note: Object
+107.04359 72.23641 112.64825 79.36328 @E
+ 0 O 0 @g
+0.00 0.00 0.00 0.00 k
+/$fm 1 def
+108.96123 78.87883 m
+108.02750 79.57219 107.48494 79.51181 107.39452 78.75865 C
+107.27433 77.97515 107.15357 77.28236 107.06315 76.67972 C
+106.94268 76.10769 107.36447 75.53537 108.29849 74.93272 C
+109.23250 74.33036 110.13619 73.63729 111.00954 72.82403 C
+111.85313 72.04054 112.36535 72.04054 112.54620 72.82403 C
+112.66668 73.57720 112.69672 74.26970 112.54620 75.02287 C
+112.42573 75.74598 112.00365 76.37839 111.37124 76.95099 C
+110.70850 77.55364 109.89496 78.18605 108.96123 78.87883 C
+@c
+F
+
+@rax %Note: Object
+108.00709 76.37471 114.11631 85.42318 @E
+ 0 O 0 @g
+0.00 0.00 0.00 0.00 k
+/$fm 1 def
+108.08731 82.13272 m
+107.90674 81.22904 108.02750 80.59606 108.47934 80.23465 C
+109.92529 79.02964 111.28082 77.91506 112.51587 76.83052 C
+113.26904 76.19783 113.72088 76.22787 113.90202 76.89118 C
+114.02220 77.34302 114.11263 77.85496 114.11263 78.33685 C
+114.14296 78.87883 113.99216 79.36129 113.69083 79.84318 C
+112.66668 81.80107 111.52176 83.54835 110.28671 85.05468 C
+109.80454 85.62756 109.35269 85.53685 108.96123 84.75364 C
+108.59953 84.00019 108.32854 83.12683 108.08731 82.13272 C
+@c
+F
+
+@rax %Note: Object
+106.40523 68.46406 111.54047 75.04214 @E
+ 0 O 0 @g
+0.00 0.00 0.00 0.00 k
+/$fm 1 def
+106.67169 74.63169 m
+106.67169 74.08913 106.58126 73.42668 106.43046 72.67351 C
+106.31027 71.95011 106.61131 71.22728 107.39452 70.56454 C
+108.14769 69.90151 109.08170 69.23877 110.13619 68.60636 C
+110.64813 68.30532 111.03987 68.48561 111.31087 69.11830 C
+111.49172 69.57014 111.58214 70.05203 111.52176 70.56454 C
+111.49172 71.16718 111.06992 71.82964 110.31676 72.55247 C
+109.53383 73.30564 108.75005 73.96838 107.93679 74.57102 C
+107.12353 75.17339 106.70173 75.20372 106.67169 74.63169 C
+@c
+F
+
+@rax %Note: Object
+117.87817 62.40047 129.11556 65.32243 @E
+ 0 O 0 @g
+0.00 0.00 0.00 0.00 k
+/$fm 1 def
+129.11556 65.32243 m
+127.51852 64.65969 125.95238 64.41846 124.35534 64.59959 C
+121.85490 64.96101 119.68583 64.23817 117.87817 62.40047 C
+119.83635 63.12331 121.94532 63.27383 124.20482 62.91213 C
+126.67521 62.61109 128.30202 63.39430 129.11556 65.32243 C
+@c
+F
+
+@rax %Note: Object
+105.05480 64.32831 109.76485 70.06734 @E
+ 0 O 0 @g
+0.00 0.00 0.00 0.00 k
+/$fm 1 def
+109.50350 67.79282 m
+108.84047 68.72683 108.14769 69.38929 107.33414 69.81137 C
+106.55093 70.26350 106.03899 70.11269 105.82781 69.38929 C
+105.58715 68.66646 105.37597 67.76277 105.13502 66.67795 C
+104.89408 65.62346 105.19540 64.96101 106.03899 64.65969 C
+106.79216 64.44879 107.54504 64.32831 108.26816 64.32831 C
+108.99128 64.32831 109.47345 64.90063 109.68435 66.01550 C
+109.83487 66.79899 109.77449 67.40135 109.50350 67.79282 C
+@c
+F
+
+@rax %Note: Object
+114.29688 56.45027 125.59068 59.89039 @E
+ 0 O 0 @g
+0.00 0.00 0.00 0.00 k
+/$fm 1 def
+114.32353 57.12831 m
+114.11263 56.25496 115.13707 56.22463 117.42633 57.03761 C
+119.71616 57.82110 122.45754 58.06233 125.59068 57.73096 C
+118.93266 60.80343 115.16683 60.59282 114.32353 57.12831 C
+@c
+F
+
+@rax %Note: Object
+109.44312 63.96661 120.10762 66.97928 @E
+ 0 O 0 @g
+0.00 0.00 0.00 0.00 k
+/$fm 1 def
+112.33531 66.01550 m
+111.34120 65.95512 110.40718 65.26233 109.44312 63.96661 C
+110.49761 64.20784 112.18450 64.29827 114.56447 64.26794 C
+116.94444 64.20784 118.78214 65.11181 120.10762 66.97928 C
+118.54120 65.98517 115.95033 65.65380 112.33531 66.01550 C
+@c
+F
+
+@rax %Note: Object
+103.99039 55.75578 112.60630 58.74009 @E
+ 0 O 0 @g
+0.00 0.00 0.00 0.00 k
+/$fm 1 def
+109.59364 56.64614 m
+110.55770 57.33893 111.58214 57.94157 112.60630 58.42375 C
+111.19068 58.96630 109.65402 58.81550 108.02750 57.94157 C
+106.88230 57.33893 105.55710 56.82699 103.99039 56.46557 C
+104.59304 56.13392 105.43635 55.89298 106.55093 55.77250 C
+107.60542 55.68208 108.62986 55.95364 109.59364 56.64614 C
+@c
+F
+
+@rax %Note: Object
+114.74532 68.15452 133.57417 71.13657 @E
+ 0 O 0 @g
+0.00 0.00 0.00 0.00 k
+/$fm 1 def
+124.47609 70.89562 m
+120.58951 71.61902 117.33619 70.71534 114.74532 68.15452 C
+117.57713 69.20901 120.71027 69.32920 124.11439 68.54570 C
+127.48847 67.73244 130.65165 68.27499 133.57417 70.20283 C
+130.01924 70.17279 127.00658 70.41402 124.47609 70.89562 C
+@c
+F
+
+@rax %Note: Object
+128.06107 58.02123 137.61071 60.66822 @E
+ 0 O 0 @g
+0.00 0.00 0.00 0.00 k
+/$fm 1 def
+130.89260 58.27294 m
+133.93559 57.67058 136.16476 58.15247 137.61071 59.68913 C
+131.70614 61.34598 128.51291 60.89414 128.06107 58.39342 C
+129.02485 58.45380 129.95887 58.42375 130.89260 58.27294 C
+@c
+F
+
+@rax %Note: Object
+129.50702 63.75600 140.74384 67.02633 @E
+ 0 O 0 @g
+0.00 0.00 0.00 0.00 k
+/$fm 1 def
+133.99569 63.96661 m
+136.34561 63.69562 138.57477 64.08765 140.74384 65.08148 C
+135.92381 68.06381 132.18803 67.61197 129.50702 63.75600 C
+130.98302 64.08765 132.45931 64.14746 133.99569 63.96661 C
+@c
+F
+
+@rax %Note: Object
+70.99370 70.70315 105.04488 86.99329 @E
+ 0 O 0 @g
+0.00 0.00 0.00 0.00 k
+/$fm 1 def
+105.04488 86.16954 m
+104.92413 86.83257 104.59304 87.10356 104.02044 86.95276 C
+97.66403 85.35600 91.69909 83.27764 86.15594 80.74687 C
+85.19187 80.29502 84.74003 79.54186 84.80013 78.45732 C
+84.83017 77.40283 84.46904 76.49915 83.77597 75.77603 C
+82.66139 74.66117 81.24548 73.96838 79.55830 73.78781 C
+78.56419 73.63729 77.69055 73.90828 76.96772 74.54098 C
+76.63635 74.81197 76.27465 74.93272 75.88290 74.87235 C
+74.43694 74.69150 73.23194 74.48088 72.20778 74.26970 C
+71.21367 74.11918 70.82164 73.72772 71.06287 73.12535 C
+71.81603 71.37780 72.93061 70.59430 74.40690 70.71534 C
+76.06375 70.89562 79.22693 72.19134 83.89644 74.57102 C
+90.43370 77.34302 96.66992 79.48148 102.66491 80.98781 C
+103.35798 81.13833 103.83987 81.71121 104.08082 82.67499 C
+105.04488 86.16954 L
+@c
+F
+
+@rax %Note: Object
+77.61969 64.26454 103.61083 75.74854 @E
+ 0 O 0 @g
+0.00 0.00 0.00 0.00 k
+/$fm 1 def
+103.44813 73.18545 m
+103.62869 73.75748 103.65902 74.39046 103.53855 75.08353 C
+103.41780 75.65584 102.99628 75.86646 102.27317 75.68617 C
+96.30822 74.33036 91.33739 72.61285 87.33090 70.56454 C
+83.35417 68.48561 80.64283 67.34069 79.25698 67.10003 C
+77.84135 66.88885 77.35918 66.52743 77.75065 66.01550 C
+78.41367 65.23200 79.04636 64.71978 79.64872 64.41846 C
+80.22104 64.14746 81.24548 64.23817 82.66139 64.65969 C
+84.10734 65.11181 86.51735 66.13569 89.95181 67.76277 C
+93.35594 69.38929 97.39276 70.71534 102.06227 71.76954 C
+102.75534 71.92035 103.20718 72.40195 103.44813 73.18545 C
+@c
+F
+
+@rax %Note: Object
+74.88567 67.40135 103.59893 80.28680 @E
+ 0 O 0 @g
+0.00 0.00 0.00 0.00 k
+/$fm 1 def
+103.35798 79.93332 m
+103.23723 80.32507 102.75534 80.38517 101.88170 80.14422 C
+94.19953 78.21638 87.42104 75.71565 81.51647 72.70328 C
+79.55830 71.70917 77.60013 70.83553 75.52148 70.08236 C
+74.82869 69.84113 74.70822 69.38929 75.13002 68.81698 C
+75.58186 68.21461 76.06375 67.82315 76.57597 67.64202 C
+77.26876 67.40135 77.84135 67.34069 78.26287 67.46145 C
+80.28113 67.91329 82.26964 68.66646 84.28819 69.66085 C
+89.86139 72.46205 95.67553 74.60135 101.73090 76.16750 C
+102.96595 76.46882 103.56860 77.22198 103.59893 78.39751 C
+103.59893 78.90917 103.50850 79.42139 103.35798 79.93332 C
+@c
+F
+
+@rax %Note: Object
+98.23635 58.90195 112.72677 62.59266 @E
+ 0 O 0 @g
+0.00 0.00 0.00 0.00 k
+/$fm 1 def
+103.90025 61.70712 m
+102.15269 60.56249 100.25461 59.83965 98.23635 59.53833 C
+100.19480 58.66498 102.39392 58.69474 104.74356 59.59843 C
+107.45490 60.68296 110.10586 61.25528 112.72677 61.31565 C
+108.78038 62.88265 105.82781 63.00283 103.90025 61.70712 C
+@c
+F
+
+@rax %Note: Object
+81.45638 60.70054 103.11647 63.57515 @E
+ 0 O 0 @g
+0.00 0.00 0.00 0.00 k
+/$fm 1 def
+103.11647 63.57515 m
+99.98362 62.97250 96.85049 62.85231 93.65726 63.24378 C
+90.43370 63.66529 86.36683 62.82198 81.45638 60.77367 C
+84.98098 61.61698 88.68643 61.73745 92.60277 61.10476 C
+98.26639 60.11065 101.79128 60.95395 103.11647 63.57515 C
+@c
+F
+
+@rax %Note: Object
+82.66139 63.65735 102.94498 70.85225 @E
+ 0 O 0 @g
+0.00 0.00 0.00 0.00 k
+/$fm 1 def
+101.48995 65.74450 m
+102.30350 66.97928 102.75534 68.39518 102.93591 69.96217 C
+102.99628 70.65468 102.75534 70.92595 102.15269 70.83553 C
+96.94091 69.90151 91.97008 68.15452 87.24047 65.62346 C
+85.70381 64.81049 84.16772 64.23817 82.66139 63.87647 C
+83.83635 63.60548 85.31235 63.57515 87.08967 63.84643 C
+90.43370 64.26794 93.83783 64.47883 97.27228 64.44879 C
+99.38126 64.29827 100.82721 64.71978 101.48995 65.74450 C
+@c
+F
+
+@rax %Note: Object
+80.01014 57.70998 94.98274 59.81981 @E
+ 0 O 0 @g
+0.00 0.00 0.00 0.00 k
+/$fm 1 def
+94.98274 59.65880 m
+93.26551 59.38781 90.97597 59.41814 88.14416 59.71918 C
+85.28230 60.05027 82.57096 59.56866 80.01014 58.27294 C
+82.87228 58.87559 86.09584 58.75483 89.71087 57.94157 C
+92.39187 57.33893 94.13915 57.91181 94.98274 59.65880 C
+@c
+F
+
+%%PageTrailer
+@rs
+@rs
+%%Trailer
+@EndSysCorelDict
+end
+%%DocumentSuppliedResources: procset wCorel12Dict 12.0 0
+%%EOF
